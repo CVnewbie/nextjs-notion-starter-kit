@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'dbe25b2d524f4ef2b1b5dbf0b3305bb9',
+  rootNotionPageId: 'study-0ff3087cade54222a71a02924cc0b88a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'good night',
-  domain: 'https://blush-muenster-c15.notion.site/f5c82c3d39f6434eb871cb71c1bebec0?v=dbe25b2d524f4ef2b1b5dbf0b3305bb9',
+  domain: 'https://www.notion.so/study-0ff3087cade54222a71a02924cc0b88a',
   author: 'Peng Zhan',
 
   // open graph metadata (optional)
